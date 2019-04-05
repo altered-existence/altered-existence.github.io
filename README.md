@@ -1,7 +1,7 @@
 # Altered Existence WebSite
 
 -----
-Link: [altered-existence.github.io](altered-existence.github.io)
+Link: [altered-existence.github.io](https://altered-existence.github.io/)
 
 -----
 Hosted with <3 by [GitHub](https://github.com)
