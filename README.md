@@ -9,4 +9,4 @@ Hosted with <3 by [GitHub](https://github.com)
 Theme by:
 [Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
 
-License: [MIT]()
+License: [MIT](https://opensource.org/licenses/MIT)
