@@ -1,12 +1,13 @@
-# Altered Existence WebSite
+# Altered Existence
+## Official Website
 
------
-Link: [altered-existence.github.io](https://altered-existence.github.io/)
+By: Topher Lee
 
------
-Hosted with <3 by [GitHub](https://github.com)
+### Credits
 
-Theme by:
-[Freelancer](http://startbootstrap.com/template-overviews/freelancer/)
+Navbar based on Fireship Tutorial:
 
-License: [MIT](https://opensource.org/licenses/MIT)
+YouTube: https://www.youtube.com/watch?v=biOMz4puGt8&t=519s
+
+Github: https://github.com/fireship-io/222-responsive-icon-nav-css
+
